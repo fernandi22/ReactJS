@@ -1,0 +1,14 @@
+.containe-style {
+    margin-left: 255px;
+    padding: 50px;
+}
+
+.paragraph {
+    margin: 10px 0;
+}
+
+.title {
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+}
